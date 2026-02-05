@@ -1,9 +1,9 @@
 export const siteConfig = {
-  name: "Zentro Solutions",
+  name: "Zentro Solutions.",
   shortName: "Zentro",
-  title: "Zentro Solutions | Never Miss a Call. Never Miss a Client.",
+  title: "Zentro Solutions. | Never Miss a Call. Never Miss a Client.",
   description:
-    "Zentro Solutions provides 24/7 live human call answering, chat, email, and social media message support for businesses of all sizes. Capture every lead, book more appointments, and deliver exceptional customer experiences—without missing a single inquiry.",
+    "Zentro Solutions. provides 24/7 live human call answering, chat, email, and social media message support for businesses of all sizes. Capture every lead, book more appointments, and deliver exceptional customer experiences—without missing a single inquiry.",
 
   tagline: "24/7 Live Human Support for Growing Businesses",
 
@@ -28,12 +28,12 @@ export const siteConfig = {
     "outsourced receptionist",
     "small business answering service",
     "enterprise call handling",
-    "Zentro Solutions",
+    "Zentro Solutions.",
   ],
 
   authors: [
     {
-      name: "Zentro Solutions",
+      name: "Zentro Solutions.",
       url: process.env.NEXT_PUBLIC_SITE_URL,
     },
   ],

@@ -1,0 +1,63 @@
+{
+  "name": "Zentro Solutions. | Never Miss a Call. Never Miss a Client.",
+  "short_name": "Zentro",
+  "description": "Zentro Solutions. provides 24/7 live human call answering, chat, email, and social media message support for businesses of all sizes. Capture every lead, book more appointments, and deliver exceptional customer experiences—without missing a single inquiry.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#fb782f",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "marketing",
+    "productivity",
+    "analytics",
+    "technology",
+    "ai"
+  ],
+  "icons": [
+    {
+      "src": "/favicons/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicons/logo-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicons/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicons/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicons/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicons/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
